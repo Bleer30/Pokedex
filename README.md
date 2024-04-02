@@ -1,6 +1,6 @@
 # Pokedex
 
-This is a simple project made with html, javascript and css for testing pokeapi
+This is a simple project made with HTML, JavaScript and CSS for testing pokeapi
 
 # Documentation
 https://pokeapi.co/
