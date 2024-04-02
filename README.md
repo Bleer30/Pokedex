@@ -1,7 +1,10 @@
-# day-37
+# Pokedex
 
+This is a simple project made with html, javascript and css for testing pokeapi
 
-The project of the 37th consists of a web page that consults an API to show information about pokemons.
+# Documentation
+https://pokeapi.co/
 
-![Pokedex image](images/pokedex-image.JPG)
+# Preview
+![Pokedex image](images/pokedex-image.png)
 
